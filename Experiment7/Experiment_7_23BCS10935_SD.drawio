@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.16 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36">
   <diagram name="Page-1" id="1pPu7Swoawb26RalfEfy">
-    <mxGraphModel dx="1175" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="900" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2382,6 +2382,11 @@
         <mxCell id="tFRkYtwEf9hMFKpUH4rO-654" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="updating the driver location" vertex="1">
           <mxGeometry height="30" width="170" x="1275" y="12778" as="geometry" />
         </mxCell>
+        <mxCell id="M4CLmIgY8hhA_Bcbdv_x-1" edge="1" parent="1" source="tFRkYtwEf9hMFKpUH4rO-655" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="13560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tFRkYtwEf9hMFKpUH4rO-655" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;Question for the forum?&amp;nbsp;&lt;/b&gt;&lt;br&gt;What if due to some reason, the user have to pay first before booking the ride??&lt;br&gt;but what if the user cancels the ride then??&lt;br&gt;&lt;br&gt;How the refund will be initiated????" vertex="1">
           <mxGeometry height="90" width="450" x="338.72" y="13140" as="geometry" />
         </mxCell>
@@ -2418,8 +2423,8 @@
         <mxCell id="W5KCsnN6cnrow-ISLY3q-16" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;Pre-built Libraries&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="130" x="4160" y="8340" as="geometry" />
         </mxCell>
-        <mxCell id="kj0lfxXOVdkWqHKMXteP-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;NAME - MANDEEP KAUR&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;UID - 23BCS10854&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp;SECTION - KRG_2B&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="230" x="-300" y="-80" as="geometry" />
+        <mxCell id="ciM14aN1p-wVLG1YocSQ-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+          <mxGeometry height="30" width="60" x="-185" y="-210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
